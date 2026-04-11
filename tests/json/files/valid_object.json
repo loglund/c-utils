@@ -1,0 +1,10 @@
+{
+  "active": true,
+  "name": "data-structures",
+  "kind": "header-only",
+  "version": 1,
+  "meta": {
+    "owner": "mhl",
+    "note": "supports hash tables and json"
+  }
+}

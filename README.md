@@ -45,9 +45,6 @@ Minimal JSON value/object/codec layer built on the project data structures:
 - C compiler (project core)
 - C++ compiler only when building tests
 
-> Note: `ds/dynarr.h` uses GNU C extensions (`({ ... })`, `__typeof__`).
-> Use GCC/Clang in GNU mode (for example `-std=gnu11`) for C builds.
-
 ## Use in another CMake project
 
 ### Option A: add as a subdirectory
